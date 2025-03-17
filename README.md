@@ -1,5 +1,5 @@
 # TER-Soccer-xT-Variation-Regression
-Experimental (research) project carried out on the first graduate year (2024) at Paris Cité University, supervised by SERVANT Logan.
+Experimental (research) project carried out during the first graduate year (2024) at Paris Cité University, supervised by SERVANT Logan.
 
 The project was divided in several steps: 
 - Finding exploitable datasets of player coordinates during a soccer match
