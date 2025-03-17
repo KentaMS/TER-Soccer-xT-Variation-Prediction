@@ -1,4 +1,4 @@
-# TER-Soccer-xT-Variation-Prediction
+# TER-Soccer-xT-Variation-Regression
 Experimental (research) project carried out on the first graduate year (2024) at Paris Cité University, supervised by SERVANT Logan.
 
 The project was divided in several steps: 
